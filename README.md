@@ -45,7 +45,6 @@ Strategic LinkedIn content repository for Tim Katz (@timkatz) and DYODE (Shopify
 | **posts-scheduled.md** | Upcoming posts ready to publish (currently Nov 2-30, 2025) |
 | **posts.md** | Published posts with engagement metrics (reactions, comments, impressions, reach, engagement rate) |
 | **posts-analysis.md** | Strategic breakdown of what makes each post work |
-| **november-strategy-review.md** | November campaign analysis and strategic rationale |
 | **performance-tracking.md** | Performance benchmarks and engagement targets |
 
 ### Supporting Files
