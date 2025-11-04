@@ -52,9 +52,9 @@ Load time dropped to 2.3 seconds before BFCM hit. Bounce rate dropped 11%. Conve
 
 Most brands don't connect app installations to performance impact. They don't see how image file sizes compound. We catch these patterns early as we work with clients and guide them through the connection.
 
-Your site isn't slow because of your infrastructure. It's slow because of your stack decisions.
+This is fixable. Site speed issues aren't infrastructure problems - they're stack optimization problems. And if you're heading into BFCM with load times over 3 seconds, you still have time to fix it.
 
-Clean it up before peak hits.
+We help brands audit their Shopify stack, identify what's slowing them down, and optimize before peak traffic hits. If you're worried about your site's performance going into Black Friday, let's talk. We'd rather help you fix it now than watch you lose conversions when it matters most.
 
 ---
 
