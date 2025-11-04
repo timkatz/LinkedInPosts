@@ -25,7 +25,7 @@ Most agencies will tell you to buy more ads OR optimize your site. We do both. Q
 
 ---
 
-## Nov 5, 2025 | Tuesday, 9:00 AM
+## Nov 5, 2025 | Wednesday, 9:00 AM
 ### Site speed tanks during Q4. It's not your server, it's your decisions.
 
 Brands add apps all year without thinking about load time. They upload product images without compression. They don't see the connection between those decisions and site performance.
@@ -58,7 +58,7 @@ Clean it up before peak hits.
 
 ---
 
-## Nov 7, 2025 | Thursday, 9:00 AM
+## Nov 7, 2025 | Friday, 9:00 AM
 ### Most brands pause testing during Q4. That's when you should run the most tests.
 
 Most brands pause A/B testing during Q4. "We can't risk it during peak traffic."
@@ -83,7 +83,7 @@ Don't pause testing when traffic spikes. That's when testing matters most.
 
 ---
 
-## Nov 12, 2025 | Tuesday, 9:00 AM
+## Nov 12, 2025 | Wednesday, 9:00 AM
 ### Three types of brands we work with, and their Q4 outcomes
 
 Three types of brands we work with going into Q4:
@@ -100,7 +100,7 @@ Next year, be Type 1. Test in September. Optimize in October. Execute in Novembe
 
 ---
 
-## Nov 14, 2025 | Thursday, 9:00 AM
+## Nov 14, 2025 | Friday, 9:00 AM
 ### Your email list is your biggest asset, but you're treating everyone the same.
 
 Client sent us their Q4 email plan last month. 8 promotional emails scheduled for November. Same message to their entire list. Same timing. Same offer.
@@ -128,7 +128,7 @@ Your list is gold. Don't waste it on generic blasts.
 
 ---
 
-## Nov 19, 2025 | Tuesday, 9:00 AM
+## Nov 19, 2025 | Wednesday, 9:00 AM
 ### The problem isn't your checkout. It's 4 steps before checkout.
 
 Brands obsess over cart abandonment during Q4. "Why are people leaving at checkout?"
