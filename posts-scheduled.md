@@ -34,8 +34,6 @@ Until Q4 hits and suddenly they're at 4+ second load times.
 
 We catch this as we work with clients. Last year, working with a client in October, we noticed their site slowing down. Load time went from 2.1 seconds in September to 4.2 seconds by late October.
 
-Client called: "Our site is so slow right now. What's going on?"
-
 We dug in. Here's what we found:
 - Added 14 apps throughout the year (actively used 6)
 - Uploaded 3MB product photos without optimization
@@ -52,7 +50,7 @@ Load time dropped to 2.3 seconds before BFCM hit. Bounce rate dropped 11%. Conve
 
 Most brands don't connect app installations to performance impact. They don't see how image file sizes compound. We catch these patterns early as we work with clients and guide them through the connection.
 
-This is fixable. Site speed issues aren't infrastructure problems - they're stack optimization problems. And if you're heading into BFCM with load times over 3 seconds, you still have time to fix it.
+This is fixable. Site speed issues aren't infrastructure problems, they're stack optimization problems. And if you're heading into BFCM with load times over 3 seconds, you still have time to fix it.
 
 We help brands audit their Shopify stack, identify what's slowing them down, and optimize before peak traffic hits. If you're worried about your site's performance going into Black Friday, let's talk. We'd rather help you fix it now than watch you lose conversions when it matters most.
 
@@ -96,7 +94,9 @@ Type 3: Did nothing until November. Now they're in panic mode. Trying to fix eve
 
 The pattern we see every year: Type 1 hits their goals. Type 2 underperforms despite high traffic. Type 3 barely survives.
 
-Next year, be Type 1. Test in September. Optimize in October. Execute in November.
+We work with all three types. But if you're in Type 3 right now, let's start working together in Q1 so you can be Type 1 by next Q4. That 10-month window makes all the difference.
+
+Test in September. Optimize in October. Execute in November. That's how you get there.
 
 ---
 
@@ -157,7 +157,7 @@ The brands that win BFCM week aren't the ones with the most traffic.
 
 They're the ones who knew their conversion funnel before November.
 
-We've been working with clients since September prepping for this week. And there's a clear pattern between who's ready and who's scrambling.
+We've been working with clients since July prepping for this week. And there's a clear pattern between who's ready and who's scrambling.
 
 Client A: Spent Sept-Oct testing their conversion funnel. Ran A/B tests on product pages, checkout flow, mobile UX. Found 3 decision points that were killing conversions. Fixed them. Traffic strategy focused on qualified audiences, not just volume.
 
@@ -186,7 +186,7 @@ BFCM weekend just wrapped. Here's what actually happened across our client base.
 
 The pattern we predicted on Sunday? It played out exactly.
 
-Brands that prepped Sept-Oct (tested conversion funnels, optimized mobile UX, fixed decision points) are converting 2-3x better than brands that only bought traffic.
+Brands that prepped since July (tested conversion funnels, optimized mobile UX, fixed decision points) are converting 2-3x better than brands that only bought traffic.
 
 Actual data from the last 72 hours:
 
