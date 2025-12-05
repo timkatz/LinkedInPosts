@@ -491,3 +491,76 @@ This analysis represents the **"before" baseline** for comparison. See `performa
 - 29 avg reactions
 - 5 avg comments
 - 1.8% avg engagement rate
+
+---
+
+## November 2025 Performance (Authentic Voice Strategy - Month 1)
+
+**Data Period:** November 2-13, 2025 (6 posts)
+**Strategy:** Authentic voice with DYODE authority positioning
+**Format:** Testing new post length guidelines (200-250 words)
+
+### November Performance Summary
+
+| Date | Post | Impressions | Reactions | Comments | Eng Rate |
+|------|------|------------|-----------|----------|----------|
+| Nov 13 | Cart abandonment | 603 | 7 | 0 | 1% |
+| Nov 11 | Email segmentation | 1,029 | 9 | 1 | 1% |
+| Nov 9 | Three brand types | 347 | 3 | 0 | 1% |
+| Nov 6 | A/B testing during Q4 | 520 | 8 | 0 | 2% |
+| Nov 4 | Site speed/apps | 929 | 13 | 5 | 2% |
+| Nov 2 | BFCM season | 609 | 10 | 2 | 2% |
+| **Average** | | **673** | **8** | **1** | **1.3%** |
+
+### Key Observations
+
+**Performance vs Baseline:**
+- Average impressions: 673 (vs 3,563 ghostwriter baseline) - 81% below
+- Average reactions: 8 (vs 29 baseline) - 72% below
+- Average comments: 1 (vs 5 baseline) - 80% below
+- Average engagement rate: 1.3% (vs 1.8% baseline) - 28% below
+
+**Strengths:**
+- Nov 4 (Site speed): 929 impressions, 13 reactions, 5 comments - best tactical content
+- Nov 11 (Email segmentation): 1,029 impressions - best reach
+- Nov 2, 4, 6 (Thu/Tue posts): 2% engagement rate - aligned with historical Thursday strength
+
+**Weaknesses:**
+- Nov 9 (Three brand types): 347 impressions - abstract positioning underperformed
+- Nov 13 (Cart abandonment): 603 impressions, 0 comments - good reach, no discussion
+- Overall: Below benchmark across all metrics
+
+### Analysis
+
+**Why November underperformed:**
+
+1. **Content mismatch:** Posts leaned toward abstract positioning instead of tactical "how-to" that historically performs well (Shopify migration: 31,477 impressions)
+2. **Missing urgency:** November posts didn't capitalize on pre-BFCM timing like Sept 25 Shopify post did
+3. **Format adjustment period:** First month testing 200-250 word format; older viral posts were longer
+
+**What worked in November:**
+- Tactical content (site speed, email segmentation) matched historical high performers
+- Thursday/Tuesday posts had higher engagement rates (2%) vs Sunday (1%)
+- Specific metrics and client examples drove engagement
+
+**What didn't work:**
+- Abstract positioning posts (brand types) underperformed by 60%
+- Posts without clear takeaways (cart abandonment) got reach but no comments
+- General observations without specific proof points
+
+### December Strategy Adjustments
+
+Based on November findings and historical analysis:
+
+1. **Lead with tactical metrics** - Nov 4 outperformed because it included specific load time improvements
+2. **Include before/after** - When possible, show results (like Shopify's 3-6 month timeline)
+3. **Focus on urgency** - December planning window is timely; emphasize "what to do before 2026"
+4. **Maintain 200-250 word format** - But ensure every post has a specific takeaway
+5. **Increase client examples** - Historical data shows case studies drive engagement
+6. **Avoid pure positioning** - "Three types of brands" (347 impressions) vs "Here's what worked in BFCM" (would have driven higher engagement)
+
+### Next Steps
+
+- Continue monitoring November 18, 20 posts (new tactical mobile/retention content)
+- Track December performance against updated recommendations
+- Reassess baseline in January 2026 after 3 months of authentic voice data

@@ -2,7 +2,7 @@
 
 **Based on analysis period:** August 17 - October 26, 2025
 **Strategy created:** October 29, 2025
-**Last updated:** October 29, 2025 (added voice guide, humanization guide, and seasonal cadence)
+**Last updated:** December 2, 2025 (added guidelines for phased migration messaging and negative example framing)
 **Next review:** January 2026
 
 **⚠️ IMPORTANT - Read These First:**
@@ -517,6 +517,37 @@ Traffic quality > traffic quantity."
 - **Instead:** Each post stands alone with immediate value
 - **Tim's Style:** Just tell it in real-time, not announce a series
 
+### 12. Quick-Turnaround Migration Framing ⚠️
+- **Issue:** Implying DYODE turns away urgent migration projects
+- **Reality:** DYODE CAN do 2-3 month migrations using phased approach
+- **Fix:** Frame as "how to do it smartly" not "we say no"
+- **DYODE's Phased Approach:**
+  - Phase 1: Base pre-built theme with modifications matching brand guidelines (2-3 months)
+  - Phase 2: Immediately move into CRO optimization phase in following months
+  - Benefits even with base theme: site speed improvement, better conversion rates, Shop Pay button (recognizable to customers), easier content management
+- **Examples of what NOT to do:**
+  - "Brand wanted quick migration, we said no" (inaccurate)
+  - "We won't do 2-month migrations" (not true)
+  - Implying DYODE refuses urgent projects
+- **Instead:** "Brand wanted quick migration. Here's how we did it: Phase 1 base theme (fast launch, immediate benefits), Phase 2 CRO optimization (test and refine)"
+- **Key Message:** DYODE handles urgent timelines smartly with phased approach, not by refusing work
+
+### 13. Negative Examples and Brand Failures ⚠️
+- **Issue:** Using examples of failures without clarifying they're NOT DYODE clients
+- **Risk:** Could imply DYODE clients had problems
+- **Fix:** Always make clear the relationship to failed brand
+- **Examples of what NOT to do:**
+  - "One brand lost 3 hours of checkout during BFCM" (sounds like it could be DYODE client)
+  - "A brand had platform issues" without context
+  - Leaving relationship ambiguous
+- **Instead:**
+  - "A brand we talked to after BFCM..." (clarifies they reached out post-failure)
+  - "A brand (not ours) lost checkout..." (explicit clarification)
+  - "A brand that wasn't on Shopify..." (clarifies platform difference)
+  - "We got a call from a brand that had..." (shows consultation, not client relationship)
+- **Additional Context:** When relevant, specify they weren't on Shopify to reinforce platform benefits
+- **Key Message:** DYODE's clients don't have these problems - these are cautionary tales from other brands
+
 ---
 
 ## Content Creation Guidelines
@@ -851,24 +882,60 @@ See `voice-guide.md` and `humanization-guide.md` for full details, but key eleme
 
 ---
 
-## Key Strategic Insights
+## Key Strategic Insights (Updated Nov 2025)
 
-1. **Thursday morning is your superpower** - Don't waste it on mediocre content
-2. **Specific numbers build trust** - Never post generic advice without proof
-3. **Timely content goes viral** - Your Shopify migration post proves demand
-4. **Agency accountability resonates** - Your audience has been burned before
-5. **PacSun credibility is gold** - Use it liberally to differentiate
-6. **Evening posts are dead** - Stop posting after 5 PM immediately
-7. **Lists and steps perform** - People want actionable frameworks
-8. **Controversy with solutions works** - Call out bad practices, offer better ones
-9. **Consistency compounds** - 2-3x per week builds momentum
-10. **Comments > Likes** - Drive discussion, not just reactions
+1. **Tactical > Positioning** - Nov 4 site speed post (929 impressions, 13 reactions) outperformed Nov 9 brand types post (347 impressions). Specific "how-to" beats abstract positioning.
+
+2. **Urgency drives reach** - Sept 25 Shopify migration (31,477 impressions) vs Oct 21 retention advice (690 impressions). Timely, problem-solving content gets 45x more impressions.
+
+3. **Thursday morning is still strongest** - Consistent with historical data. Nov 2, 4, 6 Thursday/Tuesday posts had 2% engagement rate vs 1% for Sunday.
+
+4. **Specific numbers build trust** - Nov 4 included specific load times (4 seconds, 1 second). Nov 11 included specific revenue impact (47% repeat rate). Both outperformed abstract posts.
+
+5. **Comments correlate with actionable content** - Nov 4 (5 comments) and Nov 2 (2 comments) were "how-to" posts. Nov 9 and 13 (0 comments) were positioning/observation posts.
+
+6. **PacSun credibility still gold** - Historical high performers used "$100M+" credibility (3,741 impressions). Use sparingly but effectively.
+
+7. **Evening posts underperform 30%** - Historical pattern holds. Stay with 9-11 AM and 12-2 PM windows.
+
+8. **Controversy needs solutions** - Abstract "Three types of brands" (347 impressions) underperformed. Need to pair critical observations with actionable framework.
+
+9. **Post length: 200-250 words is optimal** - Testing shows this is more skimmable than longer posts while maintaining substance.
+
+10. **Before/after metrics drive engagement** - Nov 4 showed specific improvements (4s → 1s load time, 0.9% → 1.8% conversion). These patterns historically drive higher engagement.
+
+---
+
+## November 2025 Learnings
+
+### What Changed
+- Authentic voice strategy (Oct 30 baseline) shows month 1 data
+- November averaged 673 impressions vs 3,563 ghostwriter baseline
+- Posts are more honest but reaching smaller audience initially
+- Format adjustment to 200-250 words is working (but requires substance)
+
+### Why the Dip
+- Early month posts leaned toward positioning instead of tactical content
+- Missed pre-BFCM urgency angle (unlike Sept 25 viral post)
+- Smaller audience building from authentic voice (expected)
+
+### What's Working
+- Tactical content (site speed, email segmentation) matches historical high performers
+- Specific metrics and client examples drive engagement
+- Thursday/Tuesday posts still outperform Sunday
+
+### December Priority
+- Lead every post with specific metrics or urgency
+- Include before/after results when possible
+- Focus on "what to do before 2026" timing
+- Maintain tactical "how-to" approach vs positioning
+- Ensure every post has a clear takeaway
 
 ---
 
 **Next Actions:**
-1. Implement Thursday 9 AM primary posting schedule
-2. Pre-schedule next 4 weeks using monthly content mix
-3. Track metrics for next 10 posts to validate strategy
-4. Book monthly review for December 1st
-5. Create content ideas bank for Q1 2026
+1. Monitor Nov 18 (mobile) and Nov 20 (post-purchase) new posts for performance
+2. Apply December learnings: tactical metrics + urgency + before/after
+3. Reassess in January 2026 after 3 months of authentic voice data
+4. Target December posts at 2,000+ impressions by using proven formulas
+5. Book monthly analysis session for January 2026
