@@ -29,22 +29,28 @@ Strategic LinkedIn content repository for Tim Katz (@timkatz) and DYODE (Shopify
 
 ## Repository Structure
 
-### Strategy Documents (Read First)
+### Post Workflow (Outline → Scheduled → Published)
+
+| Stage | File | Purpose |
+|-------|------|---------|
+| 1. Draft | **posts-outline.md** | Working file for post ideas and outlines. Theme, hook, content points. Get feedback here. |
+| 2. Final | **posts-scheduled.md** | Final posts ready to publish. Copy/paste directly into Buffer. |
+| 3. Published | **posts.md** | Published posts with engagement metrics (reactions, comments, impressions, reach, engagement rate) |
+
+### Strategy Documents
 
 | File | Purpose |
 |------|---------|
 | **CLAUDE.md** | Navigation guide - start here for how to use this repo |
-| **content-strategy.md** | Core strategy: buying cycles, target audience, seasonal themes, DYODE positioning |
+| **content-strategy.md** | Core strategy: buying cycles, target audience, seasonal themes, DYODE positioning. High-level monthly strategy. |
 | **voice-guide.md** | How Tim speaks - tone, examples, what works, what to avoid |
 | **humanization-guide.md** | AI tell checklist - eliminate em-dashes, robustness, furthermore, etc. |
 
-### Content Files
+### Analysis & Tracking
 
 | File | Purpose |
 |------|---------|
-| **posts-scheduled.md** | Upcoming posts ready to publish (currently Nov 2-30, 2025) |
-| **posts.md** | Published posts with engagement metrics (reactions, comments, impressions, reach, engagement rate) |
-| **posts-analysis.md** | Strategic breakdown of what makes each post work |
+| **posts-analysis.md** | Performance patterns: day/time analysis, content themes, statistical benchmarks |
 | **performance-tracking.md** | Performance benchmarks and engagement targets |
 
 ### Supporting Files
@@ -70,14 +76,14 @@ Strategic LinkedIn content repository for Tim Katz (@timkatz) and DYODE (Shopify
 **Process:**
 ```
 1. Define the post idea/topic
-2. Invoke @linkedin-post-writer agent with:
-   - Post concept or topic
+2. Add outline to posts-outline.md with:
+   - Theme, hook, content points, soft close
+3. Get feedback and iterate on the outline
+4. Invoke @linkedin-post-writer agent to write final version:
    - Reference to content-strategy.md for alignment
    - Reference to voice-guide.md for tone
-3. Agent drafts post in Tim's authentic voice
-4. Review for strategy fit and voice consistency
-5. Request revisions if needed
-6. Add to posts-scheduled.md or posts.md
+5. Review for strategy fit and voice consistency
+6. Move final post to posts-scheduled.md (copy/paste ready)
 7. Commit changes to GitHub
 ```
 
@@ -358,5 +364,5 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 
 ---
 
-**Last Updated:** October 31, 2025
-**Next Review:** After November 2025 post series completes
+**Last Updated:** December 27, 2025
+**Next Review:** After January 2026 post series completes

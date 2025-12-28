@@ -23,27 +23,31 @@
 
 ### Optimal Posting Times
 
-**PRIMARY: Thursday 9:00 AM - 12:00 PM PST** ⭐
-- Your strongest day for reach and engagement
-- Business decision-makers are active mid-morning
-- Use for your most important/tactical content
-- Reserve for "big swing" posts with viral potential
+**Updated December 2025** - Based on full Aug-Dec analysis (34 posts):
 
-**SECONDARY: Tuesday 9:00 AM - 10:00 AM PST**
-- Solid mid-week engagement
-- Good for thought leadership or case studies
-- More consistent than Tuesday afternoon/evening
+**PRIMARY: Tuesday 9:00 AM - 9:30 AM PST** ⭐ (NEW)
+- Highest average impressions in authentic voice period (1,471 avg)
+- Dec 9 Shopify app audit hit 4,254 impressions on Tuesday 9:33 AM
+- Use for your most important tactical content
+- Consistent performer across both periods
 
-**TERTIARY (optional): Sunday 10:00 AM - 11:30 AM PST**
-- Lower reach but higher engagement rate (2%)
-- Good for personal stories or controversial takes
-- Your "human desires" post performed very well here
-- More engaged, less rushed audience
+**SECONDARY: Thursday 9:00 AM - 10:00 AM PST**
+- Historically strong (ghostwriter period), now moderate (931 avg authentic)
+- Still solid for tactical how-to content
+- Sep 25 viral post was Thursday (but 1:15 PM)
+- Good for case studies and agency accountability themes
+
+**TERTIARY: Sunday 9:00 AM - 10:30 AM PST**
+- Highly variable (416-4,429 impressions)
+- Dec 14 migration phases hit 4,429 impressions on Sunday 9:15 AM
+- Works for longer tactical content
+- Abstract positioning consistently underperforms on Sunday
 
 **AVOID:**
-- Tuesday evenings after 5 PM
+- Monday (only one post: 155 impressions - worst day)
+- Friday (limited data, but historically weak for B2B)
+- Any posting after 5 PM (30% lower engagement)
 - Sunday evenings
-- Any posting after 5 PM generally underperforms
 
 ### Agency Buying Cycle (Critical for Content Positioning)
 
@@ -882,27 +886,29 @@ See `voice-guide.md` and `humanization-guide.md` for full details, but key eleme
 
 ---
 
-## Key Strategic Insights (Updated Nov 2025)
+## Key Strategic Insights (Updated Dec 2025)
 
-1. **Tactical > Positioning** - Nov 4 site speed post (929 impressions, 13 reactions) outperformed Nov 9 brand types post (347 impressions). Specific "how-to" beats abstract positioning.
+**Based on full Aug-Dec 2025 analysis (34 posts):**
 
-2. **Urgency drives reach** - Sept 25 Shopify migration (31,477 impressions) vs Oct 21 retention advice (690 impressions). Timely, problem-solving content gets 45x more impressions.
+1. **Migration content is the winning formula** - 3 of top 4 posts are migration-related. Shopify migration (31,477), Migration phases (4,429), Shopify app audit (4,254). Double down on this theme.
 
-3. **Thursday morning is still strongest** - Consistent with historical data. Nov 2, 4, 6 Thursday/Tuesday posts had 2% engagement rate vs 1% for Sunday.
+2. **Tuesday has replaced Thursday** - Authentic voice period shows Tuesday averaging 1,471 impressions vs Thursday 931. Shift primary posting day.
 
-4. **Specific numbers build trust** - Nov 4 included specific load times (4 seconds, 1 second). Nov 11 included specific revenue impact (47% repeat rate). Both outperformed abstract posts.
+3. **Specific numbers in hooks outperform 3-5x** - Posts with concrete numbers in the first line (18-22 apps, 3-6 months, 82% increase) consistently outperform abstract openings.
 
-5. **Comments correlate with actionable content** - Nov 4 (5 comments) and Nov 2 (2 comments) were "how-to" posts. Nov 9 and 13 (0 comments) were positioning/observation posts.
+4. **Posts over 300 words outperform short posts 6x** - Long tactical content averages 1,847 impressions vs 286 for posts under 150 words. Don't sacrifice depth.
 
-6. **PacSun credibility still gold** - Historical high performers used "$100M+" credibility (3,741 impressions). Use sparingly but effectively.
+5. **December improved 86% over November** - Adjusting toward tactical migration content worked. Continue this trajectory.
 
-7. **Evening posts underperform 30%** - Historical pattern holds. Stay with 9-11 AM and 12-2 PM windows.
+6. **Engagement rate is stable at 1.8%** - Matches ghostwriter period. Content quality is maintained; reach/algorithm is the challenge.
 
-8. **Controversy needs solutions** - Abstract "Three types of brands" (347 impressions) underperformed. Need to pair critical observations with actionable framework.
+7. **Morning 9-11 AM is optimal** - All 4 posts over 3,000 impressions were posted in this window.
 
-9. **Post length: 200-250 words is optimal** - Testing shows this is more skimmable than longer posts while maintaining substance.
+8. **Avoid Monday and evening posts** - Monday (155 impressions) and evening posts (1,331 avg) consistently underperform.
 
-10. **Before/after metrics drive engagement** - Nov 4 showed specific improvements (4s → 1s load time, 0.9% → 1.8% conversion). These patterns historically drive higher engagement.
+9. **Checklist formats drive comments** - December planning checklist got 7 comments despite only 799 impressions. Actionable formats resonate.
+
+10. **Abstract positioning underperforms 80%** - Three brand types (434 impressions) vs tactical app audit (4,254). Every post needs specific numbers and actionable advice.
 
 ---
 
@@ -933,9 +939,126 @@ See `voice-guide.md` and `humanization-guide.md` for full details, but key eleme
 
 ---
 
+## January 2026 Strategy: Peak Buying Window
+
+**Strategic Context:** January is THE peak buying window. New budgets are unlocked, Q4 pain is fresh, and brands are actively seeking new partners. This is DYODE's Super Bowl.
+
+**Goal:** Generate qualified inbound conversations without being salesy. Position Tim as the consultative expert brands want to talk to.
+
+**Detailed Calendar:** See `posts-scheduled.md` for the full January content calendar with 12 posts.
+
+### Posting Cadence
+
+| Day | Time | Priority | Rationale |
+|-----|------|----------|-----------|
+| **Tuesday** | 9:00-9:30 AM | **PRIMARY** | 1,471 avg impressions in authentic period. Best performer. |
+| **Thursday** | 9:00-9:30 AM | Secondary | 931 avg impressions. Still solid, but Tuesday outperforms. |
+| **Sunday** | 10:00 AM | Tertiary | Variable (416-4,429). Good for longer tactical content. |
+
+**Weekly cadence:** 3 posts per week (Tue, Thu, Sun)
+**Note:** Skip Thu Jan 1 (New Year's Day). Start with Sun Jan 4.
+
+### Core Theme
+
+**"Q4 Revealed Your Constraints. Here's How to Fix Them."**
+
+January content should:
+1. Reference Q4 data and learnings (urgency from fresh pain)
+2. Provide specific tactical frameworks (what to do, when)
+3. Position DYODE methodology naturally (not pitch-y)
+4. End with soft invitations or questions (not CTAs)
+
+### Content Mix
+
+- 2 Migration posts (proven winner theme)
+- 3 Pattern recognition posts
+- 3 Tactical how-to posts
+- 2 CRO-focused posts
+- 1 Agency accountability post
+- 1 Predictions post
+
+### Lead Generation Without Being Salesy
+
+**The Anti-Pitch Approach:**
+
+Instead of CTAs like "Book a call" or "Let's talk," use:
+
+1. **Questions that prompt reflection:**
+   - "When's the last time you audited your Shopify stack?"
+   - "What's your biggest Q4 takeaway?"
+   - "What's your mobile conversion gap?"
+
+2. **Value-first positioning:**
+   - Give the framework in the post
+   - Don't hold back "premium" insights for a call
+   - Be generous with tactical advice
+
+3. **Implicit DYODE methodology:**
+   - Show how DYODE thinks without saying "this is how we work"
+   - "At DYODE, we..." should be rare
+   - Let the expertise speak for itself
+
+4. **Pattern recognition authority:**
+   - "Across 50+ client sites, here's what we're seeing..."
+   - "In December, we took 30+ calls from brands..."
+   - Shows scale without bragging
+
+5. **Soft invitations (use sparingly, max 1-2 posts per month):**
+   - "If you're planning a 2026 migration, happy to share what we've learned"
+   - "DM me if you want the full audit checklist"
+   - Never: "Ready to transform your eCommerce? Let's chat!"
+
+### Content Principles
+
+**Every post must have:**
+1. A specific number or metric in the first 2 lines
+2. A tactical framework or actionable insight
+3. At least 250-350 words (longer content performs better)
+4. Real examples (anonymized client data or pattern observation)
+5. A natural ending (question or observation, not CTA)
+
+**Avoid:**
+- Salesy CTAs ("Book a call," "Let's talk," "Ready to grow?")
+- Abstract positioning without specifics
+- Short posts under 200 words
+- Monday or evening posting
+- Generic advice without DYODE's unique lens
+
+### Success Metrics
+
+**Target benchmarks (based on December trajectory):**
+- Average impressions: 1,500-2,000 (up from Dec 1,443)
+- Average reactions: 18-22 (up from Dec 16)
+- Average comments: 3-5 (up from Dec 2)
+- 2+ posts over 3,000 impressions
+- 1 post over 4,000 impressions (migration content)
+
+**Lead generation indicators:**
+- Inbound DMs referencing specific posts
+- "I saw your post about..." in discovery calls
+- Connection requests from target ICP (eCommerce founders/VPs)
+- Profile views spike after high-performing posts
+
+### Migration Content Priority
+
+**Why migration content works:**
+- 3 of top 4 all-time posts are migration-related
+- Q1 is peak migration buying window
+- Fresh Q4 pain motivates platform changes
+- Specific timelines and phases are inherently tactical
+
+**Migration content formula:**
+- Lead with timeline urgency
+- Include specific phases and durations
+- Address common misconceptions
+- Show DYODE's phased approach naturally
+- Reference Q4 platform failures (not DYODE clients)
+
+---
+
 **Next Actions:**
-1. Monitor Nov 18 (mobile) and Nov 20 (post-purchase) new posts for performance
-2. Apply December learnings: tactical metrics + urgency + before/after
-3. Reassess in January 2026 after 3 months of authentic voice data
-4. Target December posts at 2,000+ impressions by using proven formulas
-5. Book monthly analysis session for January 2026
+1. Draft full post content in posts-scheduled.md
+2. Prioritize Tuesday 9 AM as primary posting slot
+3. Focus on migration content and tactical frameworks
+4. Monitor first week performance and adjust
+5. February strategy review after January data

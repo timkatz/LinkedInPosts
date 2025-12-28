@@ -10,25 +10,38 @@ This is a content management repository for LinkedIn posts with engagement analy
 
 ## Repository Structure
 
-### **Posts & Tracking**
-- `posts.md` - Published posts with engagement metrics (raw data only)
-  - **BASELINE DATE: Oct 30, 2025** - First post using authentic voice strategy
-- `posts-scheduled.md` - Future posts ready to publish (Nov 2-25, 2025)
-  - **FORMAT:** Clear text with natural line breaks (NO HTML tags, NO CSV tables)
-  - Each post clearly delineated with `---` separator
-  - Ready to copy/paste directly into Buffer or any scheduling tool
-- `posts-analysis.md` - Historical performance analysis (Aug-Oct 2025 ghostwritten baseline)
+### **Post Workflow (Outline → Scheduled → Published)**
+
+The post creation workflow moves content through three stages:
+
+1. **`posts-outline.md`** - Working file for post ideas and outlines
+   - Theme, hook, content points, soft close
+   - Get feedback and iterate here
+   - NOT ready to publish
+
+2. **`posts-scheduled.md`** - Final posts ready to publish
+   - **FORMAT:** Clear text with natural line breaks (NO HTML tags)
+   - Full LinkedIn post text + X/Twitter version
+   - Ready to copy/paste directly into Buffer
+   - Each post delineated with `---` separator
+
+3. **`posts.md`** - Published posts with engagement metrics
+   - Raw data only (impressions, reactions, comments)
+   - **BASELINE DATE: Oct 30, 2025** - First post using authentic voice strategy
+
+### **Analysis & Performance**
+- `posts-analysis.md` - Historical performance analysis (Aug-Dec 2025)
+  - Day/time performance patterns
+  - Content theme analysis
+  - Statistical benchmarks
 
 ### **Strategy & Planning**
 - `content-strategy.md` - **⭐ MAIN STRATEGY FILE**
   - Seasonally-adjusted posting schedule (Q1-Q4 cadence)
   - Monthly content mix and themes to pursue
-  - November 2025 finalized schedule and content
-  - Sample content calendar and success benchmarks
+  - High-level monthly strategy (not detailed calendars)
+  - Success benchmarks and lead generation principles
 - `november-strategy-review.md` - Detailed breakdown of November posts
-  - Strategic analysis of all 11 posts
-  - Why each post works, weaknesses, recommendations
-  - Performance predictions and role in monthly narrative
 - `performance-tracking.md` - Before/After comparison tracking
   - Baseline: Oct 30, 2025
   - Ghostwriter benchmarks to beat (3,563 avg impressions)
