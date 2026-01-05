@@ -656,7 +656,7 @@ What's your post-launch plan?
 
 **X/Twitter (280 char):**
 
-First 90 days post-Shopify migration: Days 1-30 stabilize and fix bugs (monitor checkout, 404s, cross-browser issues). Days 31-60 measure baseline and quick wins (site speed, mobile UX, trust signals). Days 61-90 systematic A/B testing. Launch isn't the finish line. It's the starting line.
+First 90 days post-Shopify migration: Days 1-30 stabilize (checkout, 404s, cross-browser). Days 31-60 quick wins (site speed, mobile UX, trust signals). Days 61-90 A/B testing. Launch isn't the finish line. It's the starting line.
 
 ---
 
