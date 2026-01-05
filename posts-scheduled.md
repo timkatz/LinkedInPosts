@@ -620,61 +620,37 @@ Pull your Q4 mobile data. What's your gap? If mobile is 60% of traffic but only 
 
 You just launched your new Shopify site. Now what?
 
-Most brands treat launch day as the finish line. It's not. It's the starting line for 90 days of optimization that determines whether your migration actually delivers ROI.
+Most brands treat launch day as the finish line. It's not. It's the starting line for 90 days of optimization.
 
-Here's what to focus on:
+**Days 1-30: Stabilization**
 
-**Days 1-30: Stabilization and bug fixes**
+Monitor checkout completion rates daily. If they're lower than pre-migration, something's broken.
 
-Your site is live, but it's not stable yet. This is when hidden issues surface.
+Watch for 404 errors. Users hitting broken links from Google or old emails? Set up redirects immediately.
 
-Monitor checkout completion rates daily. If they're lower than pre-migration, something's broken. Check form validation, payment gateway integration, mobile checkout flow.
+Test across devices and browsers. We had a client whose mobile checkout broke on Safari (20% of their traffic). Took 3 days to catch it. Cost them $8k.
 
-Watch for 404 errors. Pull your analytics. If users are hitting broken links from Google or old email campaigns, set up redirects immediately. Every 404 is a lost sale.
+**Days 31-60: Baseline and quick wins**
 
-Test your site across devices. Desktop, mobile, tablet. Chrome, Safari, Firefox. Don't assume it works everywhere just because it works on your laptop.
+Compare pre-migration vs post-migration metrics. Conversion rate, bounce rate, site speed, mobile vs desktop gap.
 
-We had a client launch in April last year. Week 2, their mobile checkout broke on Safari (20% of their traffic). Took 3 days to catch it. Cost them roughly $8k in lost revenue. Now we test across browsers before launch, not after.
+Quick wins to prioritize:
 
-Fix bugs fast. Don't let them compound.
+Site speed. Delete unused apps you migrated over. Compress images. Target: under 2.5 seconds.
 
-**Days 31-60: Baseline measurement and quick wins**
+Mobile UX. If mobile conversion lags desktop by more than 20%, fix navigation and checkout flow.
 
-By week 5, your site is stable. Now you can measure real performance.
+Trust signals near add-to-cart. At PacSun, we saw 10-15% conversion lifts just from better placement.
 
-Compare pre-migration vs post-migration metrics. Conversion rate, average order value, bounce rate, site speed, mobile vs desktop gap.
+**Days 61-90: Systematic testing**
 
-If your conversion rate dropped post-migration, you have a UX problem. If it stayed flat, you have optimization opportunities. If it improved, double down on what's working.
+Run A/B tests on your biggest constraints. Product page bounce rates high? Test headlines, image placement, CTA copy.
 
-Quick wins to prioritize in this phase:
+Test one variable at a time. Run each test 2-3 weeks for statistically significant data.
 
-Site speed optimization. Delete unused apps you migrated over. Compress images. Your target: under 2.5 seconds load time.
+We worked with a client who followed this framework. By day 90, their conversion rate was 22% higher than pre-migration. Not because of the platform. Because they treated the first 90 days as an optimization sprint.
 
-Mobile UX refinement. Pull your mobile conversion data. If it's lagging desktop by more than 20%, fix mobile navigation and checkout flow.
-
-Trust signals. Add "Ships in 24 hours" or free shipping thresholds near add-to-cart. At PacSun, we saw 10-15% conversion lifts just from better trust signal placement.
-
-These aren't major rebuilds. They're tactical fixes that move the needle fast.
-
-**Days 61-90: Systematic CRO testing**
-
-By month 3, you know your baseline. Now you can test intelligently.
-
-Run A/B tests on your biggest constraints. If product pages have high bounce rates, test headlines, image placement, CTA copy. If cart abandonment is high, test checkout flow simplification.
-
-Test one variable at a time. Run each test 2-3 weeks to get statistically significant data. Don't test everything at once.
-
-We worked with a client who migrated in Q2 last year. Days 1-30 they stabilized. Days 31-60 they optimized site speed and mobile UX. Days 61-90 they ran 4 A/B tests on product pages and checkout.
-
-By day 90, their conversion rate was 22% higher than pre-migration. Not because of the migration itself. Because they treated the first 90 days as an optimization sprint, not a victory lap.
-
-**What most brands get wrong:**
-
-They launch and move on. They don't monitor. They don't test. They assume the new platform will magically improve results.
-
-Shopify gives you better infrastructure, faster load times, easier management. But it doesn't optimize your funnel for you. That's your job.
-
-The brands that win post-migration treat the first 90 days like a focused CRO project. Stabilize, measure, test, optimize.
+Shopify gives you better infrastructure. But it doesn't optimize your funnel for you. That's your job.
 
 What's your post-launch plan?
 
