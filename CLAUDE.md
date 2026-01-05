@@ -22,6 +22,7 @@ The post creation workflow moves content through three stages:
 2. **`posts-scheduled.md`** - Final posts ready to publish
    - **FORMAT:** Clear text with natural line breaks (NO HTML tags)
    - Full LinkedIn post text + X/Twitter version
+   - **CHARACTER LIMITS:** LinkedIn max 3,000 chars, X/Twitter max 280 chars
    - Ready to copy/paste directly into Buffer
    - Each post delineated with `---` separator
 
@@ -157,7 +158,8 @@ When drafting new posts or modifying existing posts, always use the `@linkedin-p
 8. **No HTML tags** - Use clear text with natural line breaks, not `<br>` or `<br><br>`
 9. **No CSV/table format** - Write as readable markdown with headers and separators
 10. **Copy/paste ready** - Format should work directly in Buffer without reformatting
-11. **Time strategically** - Thursday 9 AM primary, adjust for seasonal cadence
+11. **Character limits** - LinkedIn max 3,000 chars, X/Twitter max 280 chars
+12. **Time strategically** - Thursday 9 AM primary, adjust for seasonal cadence
 
 ## Content Focus
 
