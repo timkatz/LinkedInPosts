@@ -7,7 +7,7 @@
 
 ---
 
-## Jan 4, 2026 | Sunday, 10:00 AM
+## Jan 6, 2026 | Tuesday, 9:00 AM
 ### The migration window is open (and closing faster than you think)
 
 **LinkedIn:**
@@ -42,7 +42,7 @@ If you want a stable site before Q4 2026, start your Shopify migration in Januar
 
 ---
 
-## Jan 6, 2026 | Tuesday, 9:00 AM
+## Jan 8, 2026 | Thursday, 9:00 AM
 ### 2026 starts now: what Q4 revealed about your site
 
 **LinkedIn:**
@@ -85,7 +85,7 @@ Your Q4 data just told you everything about 2026. Platform issues (3 hours of lo
 
 ---
 
-## Jan 8, 2026 | Thursday, 9:00 AM
+## Jan 11, 2026 | Sunday, 10:00 AM
 ### What your Q4 data actually tells you
 
 **LinkedIn:**
@@ -130,7 +130,7 @@ What was your biggest Q4 surprise?
 
 ---
 
-## Jan 11, 2026 | Sunday, 10:00 AM
+## Jan 13, 2026 | Tuesday, 9:00 AM
 ### Q4 winners vs Q4 strugglers: the pattern
 
 **LinkedIn:**
@@ -171,7 +171,7 @@ Client A: 2.8% conversion, stable Shopify site, 1.9s load time, tested funnel. C
 
 ---
 
-## Jan 13, 2026 | Tuesday, 9:00 AM
+## Jan 15, 2026 | Thursday, 9:00 AM
 ### Your Q1 CRO audit checklist
 
 **LinkedIn:**
@@ -228,7 +228,7 @@ Before you increase ad spend, audit your conversion funnel. A 0.5% lift beats 50
 
 ---
 
-## Jan 15, 2026 | Thursday, 9:00 AM
+## Jan 18, 2026 | Sunday, 10:00 AM
 ### Site speed: the math that matters
 
 **LinkedIn:**
@@ -269,7 +269,7 @@ Every second of load time costs you 7-8% conversion. Most brands have 18-22 Shop
 
 ---
 
-## Jan 18, 2026 | Sunday, 10:00 AM
+## Jan 20, 2026 | Tuesday, 9:00 AM
 ### What I learned from 30+ brand calls in December
 
 **LinkedIn:**
@@ -306,7 +306,7 @@ We'd rather tell you the truth now than sell you something that won't work. That
 
 Brands are getting smarter about evaluating agencies. They're asking better questions. They want clear deliverables, realistic timelines, honest assessments. They've been burned by black box relationships and endless discovery phases.
 
-That's exactly why George and I built DYODE the way we did.
+That's exactly why we built DYODE the way we did.
 
 **X/Twitter (280 char):**
 
@@ -314,7 +314,7 @@ That's exactly why George and I built DYODE the way we did.
 
 ---
 
-## Jan 20, 2026 | Tuesday, 9:00 AM
+## Jan 22, 2026 | Thursday, 9:00 AM
 ### Questions to ask before hiring an agency in 2026
 
 **LinkedIn:**
@@ -371,7 +371,7 @@ Before hiring an agency, ask: What's the realistic timeline by phase? What's inc
 
 ---
 
-## Jan 22, 2026 | Thursday, 9:00 AM
+## Jan 25, 2026 | Sunday, 10:00 AM
 ### The real cost of a bad migration
 
 **LinkedIn:**
@@ -426,12 +426,12 @@ A brand spent 8 months on a migration that should've taken 4. Launched in Octobe
 
 ---
 
-## Jan 25, 2026 | Sunday, 10:00 AM
+## Jan 27, 2026 | Tuesday, 9:00 AM
 ### 2026 predictions: what's actually changing
 
 **LinkedIn:**
 
-Forget the hype about AI commerce and Web3 storefronts. Here's what's actually shifting in eCommerce this year, based on what we're seeing across our client base:
+Forget the hype. Here's what's actually shifting in eCommerce this year, based on what we're seeing across our client base:
 
 **CRO is becoming a continuous practice, not a one-time project.**
 
@@ -483,7 +483,7 @@ That's not sexy. But it's real.
 
 ---
 
-## Jan 27, 2026 | Tuesday, 9:00 AM
+## Jan 29, 2026 | Thursday, 9:00 AM
 ### The product page elements that actually convert
 
 **LinkedIn:**
@@ -548,7 +548,7 @@ After reviewing hundreds of product pages: 5 elements that convert are above-the
 
 ---
 
-## Jan 29, 2026 | Thursday, 9:00 AM
+## Feb 1, 2026 | Sunday, 10:00 AM
 ### Mobile UX: closing the revenue gap
 
 **LinkedIn:**
@@ -585,7 +585,7 @@ Desktop might tolerate 3-4 second load times. Mobile won't. Mobile users are imp
 
 Compress images specifically for mobile (use responsive images, not desktop-sized files). Delete apps that add mobile render-blocking scripts. Test load time on an actual phone, not just desktop Chrome dev tools.
 
-Target: Under 2 seconds on 4G. Under 1.5 seconds on 5G.
+Target: Under 1.5 seconds on 5G.
 
 **4. Readable product info (without zooming)**
 
@@ -613,6 +613,77 @@ Pull your Q4 mobile data. What's your gap? If mobile is 60% of traffic but only 
 
 ---
 
+## Feb 3, 2026 | Tuesday, 9:00 AM
+### The first 90 days after a Shopify migration: what to actually focus on
+
+**LinkedIn:**
+
+You just launched your new Shopify site. Now what?
+
+Most brands treat launch day as the finish line. It's not. It's the starting line for 90 days of optimization that determines whether your migration actually delivers ROI.
+
+Here's what to focus on:
+
+**Days 1-30: Stabilization and bug fixes**
+
+Your site is live, but it's not stable yet. This is when hidden issues surface.
+
+Monitor checkout completion rates daily. If they're lower than pre-migration, something's broken. Check form validation, payment gateway integration, mobile checkout flow.
+
+Watch for 404 errors. Pull your analytics. If users are hitting broken links from Google or old email campaigns, set up redirects immediately. Every 404 is a lost sale.
+
+Test your site across devices. Desktop, mobile, tablet. Chrome, Safari, Firefox. Don't assume it works everywhere just because it works on your laptop.
+
+We had a client launch in April last year. Week 2, their mobile checkout broke on Safari (20% of their traffic). Took 3 days to catch it. Cost them roughly $8k in lost revenue. Now we test across browsers before launch, not after.
+
+Fix bugs fast. Don't let them compound.
+
+**Days 31-60: Baseline measurement and quick wins**
+
+By week 5, your site is stable. Now you can measure real performance.
+
+Compare pre-migration vs post-migration metrics. Conversion rate, average order value, bounce rate, site speed, mobile vs desktop gap.
+
+If your conversion rate dropped post-migration, you have a UX problem. If it stayed flat, you have optimization opportunities. If it improved, double down on what's working.
+
+Quick wins to prioritize in this phase:
+
+Site speed optimization. Delete unused apps you migrated over. Compress images. Your target: under 2.5 seconds load time.
+
+Mobile UX refinement. Pull your mobile conversion data. If it's lagging desktop by more than 20%, fix mobile navigation and checkout flow.
+
+Trust signals. Add "Ships in 24 hours" or free shipping thresholds near add-to-cart. At PacSun, we saw 10-15% conversion lifts just from better trust signal placement.
+
+These aren't major rebuilds. They're tactical fixes that move the needle fast.
+
+**Days 61-90: Systematic CRO testing**
+
+By month 3, you know your baseline. Now you can test intelligently.
+
+Run A/B tests on your biggest constraints. If product pages have high bounce rates, test headlines, image placement, CTA copy. If cart abandonment is high, test checkout flow simplification.
+
+Test one variable at a time. Run each test 2-3 weeks to get statistically significant data. Don't test everything at once.
+
+We worked with a client who migrated in Q2 last year. Days 1-30 they stabilized. Days 31-60 they optimized site speed and mobile UX. Days 61-90 they ran 4 A/B tests on product pages and checkout.
+
+By day 90, their conversion rate was 22% higher than pre-migration. Not because of the migration itself. Because they treated the first 90 days as an optimization sprint, not a victory lap.
+
+**What most brands get wrong:**
+
+They launch and move on. They don't monitor. They don't test. They assume the new platform will magically improve results.
+
+Shopify gives you better infrastructure, faster load times, easier management. But it doesn't optimize your funnel for you. That's your job.
+
+The brands that win post-migration treat the first 90 days like a focused CRO project. Stabilize, measure, test, optimize.
+
+What's your post-launch plan?
+
+**X/Twitter (280 char):**
+
+First 90 days post-Shopify migration: Days 1-30 stabilize and fix bugs (monitor checkout, 404s, cross-browser issues). Days 31-60 measure baseline and quick wins (site speed, mobile UX, trust signals). Days 61-90 systematic A/B testing. Launch isn't the finish line. It's the starting line.
+
+---
+
 ## Notes - January 2026
 
 **Strategic Intent:**
@@ -621,13 +692,13 @@ Pull your Q4 mobile data. What's your gap? If mobile is 60% of traffic but only 
 - Goal: Generate qualified inbound without being salesy
 - Skip Jan 1 (New Year's Day - low engagement expected)
 
-**Content Mix (12 posts):**
-- 2 Migration posts (Jan 4, Jan 22) - proven winner theme
-- 3 Pattern recognition posts (Jan 6, Jan 11, Jan 18)
-- 3 Tactical how-to posts (Jan 8, Jan 13, Jan 15)
-- 2 CRO-focused posts (Jan 27, Jan 29)
-- 1 Agency accountability post (Jan 20)
-- 1 Predictions post (Jan 25)
+**Content Mix (13 posts - 11 Jan, 2 Feb):**
+- 3 Migration posts (Jan 6, Jan 25, Feb 3) - proven winner theme
+- 3 Pattern recognition posts (Jan 8, Jan 13, Jan 20)
+- 3 Tactical how-to posts (Jan 11, Jan 15, Jan 18)
+- 2 CRO-focused posts (Jan 29, Feb 1)
+- 1 Agency accountability post (Jan 22)
+- 1 Predictions post (Jan 27)
 
 **Lead Generation Without Being Salesy:**
 - End with questions, not CTAs
